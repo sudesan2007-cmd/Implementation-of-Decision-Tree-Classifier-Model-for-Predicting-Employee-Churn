@@ -7,7 +7,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
  
-##Algorithm:
+## Algorithm:
 Step 1: Import Required Libraries
 
 Import pandas, matplotlib, and sklearn modules for data handling, visualization, and ML.
